@@ -1,0 +1,12 @@
+#canvas {
+    /* border: 2px solid black; */
+    border: 1px solid #aaa;
+}
+
+#canvas.drawing {
+    cursor: url(assets/images/cursor/pencil.png) 0 18, auto;
+}
+
+#imagePreviewer {
+    display: none;
+}
